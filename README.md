@@ -1,5 +1,5 @@
 ### Hi 👋! I'm Wael AKA Weedi
-
+## I'm a software engineer student at Holberton School
 <!--
 **weedii/weedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
