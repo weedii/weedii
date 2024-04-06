@@ -1,4 +1,4 @@
-### Hi 👋! I'm Wael AKA Weedi
+### Hi 👋! I'm Wael Abidi
 ## I'm a software engineer student at Holberton School
 <!--
 **weedii/weedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
