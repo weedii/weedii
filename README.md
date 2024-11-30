@@ -1,5 +1,5 @@
 ### Hi 👋! I'm Wael Abidi
-## I'm a  Full-stack developer skilled in building web applications that are easy to use and reliable. Experienced in both frontend and backend technologies
+## I'm a  Full-stack developer skilled in building web applications. Experienced in both frontend and backend technologies
 <!--
 **weedii/weedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
